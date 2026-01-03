@@ -109,7 +109,9 @@ sudo apt install -y \
 
 ```bash
 git clone https://github.com/alukha3825/rumux.git
-cd linmux-health
+cd rumux
+unzip linmux-git.zip
+cd linmux-git
 chmod +x run.sh
 ./run.sh
 ```
